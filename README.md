@@ -4,6 +4,4 @@
 + Algorithm used - Logistic Regression
 
 + Accuracy - 91.248%
-
-
-#Hack2Innovate #PWC 
+ 
